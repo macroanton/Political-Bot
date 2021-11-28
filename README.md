@@ -23,5 +23,5 @@ D. On top of the points for the required tasks, I also:
 2. Had five bots total including ('BurberryBot','Lil-BabyBot','BackBot','Baloon-hOT') which had over 500 comments each
 3. Had a total 1000 valid comments for 'Bottle__' which can be checked, along with the other bots, using bot_counter.py with the code 
 ```
-python3 bot.py --username Bottle__
+python3 bot_counter.py --username Bottle__
 ```
